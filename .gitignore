@@ -1,0 +1,11 @@
+# Data are NOT redistributed: download them from the original release
+*.parquet
+*.wav
+*.mp4
+mirada/
+sens_*/
+*_resultados.csv
+validez_*.csv
+llave_azar*.csv
+__pycache__/
+.ipynb_checkpoints/

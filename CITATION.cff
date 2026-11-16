@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Audit scripts for head-orientation attention in an agile-team MMLA dataset"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-11-16
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+# Add a 'doi:' line here after Zenodo assigns one.

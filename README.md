@@ -36,6 +36,7 @@ Python ≥ 3.10 and `pip install -r requirements.txt`.
 | 8 | `python scripts/validez_down.py ROOT f0_resultados.csv` | `validez_down_*.csv/.txt` | Behaviour of the *down* class |
 | 9 | `python scripts/muestra_anotacion.py ...` | annotation sheet + hidden key | Manual validation sample |
 | 10 | `figures/figuras_paper.ipynb` (Colab or Jupyter) | `figuras/*.pdf` | Figures |
+| 4b | `python scripts/validez_deriva.py ROOT f0_resultados.csv` | `validez_deriva.csv` | Construct check with drift-corrected offset |
 
 Main parameters (fixed in `scripts/mirada_recalc.py`): `PITCH_ABAJO` (θ_down = 15°) and
 `ANG_NADIE` (θ_none = 30°). Effective frame rate = video frames / audio duration; the
